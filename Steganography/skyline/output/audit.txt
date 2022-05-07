@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri May  6 21:22:53 2022
+Invocation: foremost BMrmpDEK.jpg 
+Output directory: /home/ulli/Documents/CTF/EZ-CTF2022/Steganography/skyline/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: BMrmpDEK.jpg
+Start: Fri May  6 21:22:53 2022
+Length: 10 MB (11432543 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      10 MB 	          0 	 
+Finish: Fri May  6 21:22:53 2022
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri May  6 21:22:53 2022
